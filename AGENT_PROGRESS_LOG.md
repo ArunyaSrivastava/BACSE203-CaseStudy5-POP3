@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 8)
+> **Last Synchronized:** 2026-10-22 (Turn 9)
 
 ---
 
@@ -117,6 +117,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 8: Repository Indexing & Cross-Linking
 * **Action:** Committed `AGENT_PROGRESS_LOG.md` to GitHub remote and indexed it directly in `README.md` repository contents table.
 * **Outcome:** Clean working tree with `origin/main` completely up to date. Any incoming agent or developer cloning the repository has instant visibility into the project's state.
+
+### Turn 9: Person 3 Software & Execution Workflow Guidance
+* **Action:** Detailed the exact software requirements (Wireshark, Python 3, Terminal) and provided step-by-step instructions for Person 3 live reproduction or direct PCAP inspection.
+* **Outcome:** Verified existing artifacts (`pop3_wireshark_capture.pcap`, `run_wireshark_pop3_sim.py`, and `Case Study 5 - Person 3 - Simulation & Packet Analysis.docx`) require no further coding.
 
 ---
 
