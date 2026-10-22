@@ -1,0 +1,9 @@
++OK Dovecot POP3 server ready (HQ Enterprise Maildrop)
+
+USER branch_user1
+
++OK User accepted
+
+PASS SecretP@ss2026!
+
+-ERR [IN-USE] Mailbox is locked by another session! (Orphaned dotlock active)

@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 12)
+> **Last Synchronized:** 2026-10-22 (Turn 13)
 
 ---
 
@@ -38,6 +38,7 @@ Any work produced in this repository **must align with these exact engineering p
 | **`Case Study 5 - POP3 Mailbox Access in a Low-Bandwidth Branch.docx`** | DOCX | **Complete** | **Master Report:** Full 260+ paragraph document formatted in the official SCOPE template with all 8 numbered sections, 6 tables, diagrams, and answers to questions a, b, c. |
 | **`Case Study 5 - Person 1 - Protocol Theory & Limitations.docx`** | DOCX | **Complete** | **Person 1 Deliverable:** Standalone report covering Section 1 (Overview) and Section 6.1 (Question a) with embedded high-resolution diagrams. |
 | **`Case Study 5 - Person 3 - Simulation & Packet Analysis.docx`** | DOCX | **Complete** | **Person 3 Deliverable:** Standalone report covering Section 5 with Table 4, Wireshark frame-by-frame analysis table, live terminal logs, and topology diagrams. |
+| **`PERSON_3_SIMULATION_EVIDENCE.md`** | Markdown | **Complete** | **Person 3 Visual Evidence Gallery:** Dedicated photographic compilation of all Wireshark packet inspections, TCP streams, terminal execution logs, and `TOP 4 0` selective pre-fetching captures. |
 | **`TEAM_AGENT_HANDOFF.md`** | Markdown | **Complete** | **Master Handoff & Prompts:** Comprehensive guide containing self-contained, copy-pasteable AI agent prompts for Persons 1, 2, 3, 4, and 5. |
 | **`AGENT_PROGRESS_LOG.md`** | Markdown | **Active** | **Project Continuity File:** Real-time turn-by-turn changelog and operational context for future AI agent sessions. |
 | **`pop3_wireshark_capture.pcap`** | PCAP | **Complete** | Standard binary PCAP file with 25 simulated frames showing TCP handshake, plaintext passwords, link flap, and `-ERR [IN-USE]` lock contention. |
@@ -133,6 +134,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 12: Successful Live Loopback Packet Capture & Follow TCP Stream Instructions
 * **Action:** Verified user successfully captured live simulation traffic on `lo0` (Packets 191–222 showing TCP 3-way handshake on port 1110, cleartext credentials `USER`/`PASS`, data streaming, and connection drop).
 * **Outcome:** Guided user to stop capture (red square button), inspect payload via "Follow TCP Stream", and save local trace. All Person 3 tasks fully validated.
+
+### Turn 13: Person 3 Visual Evidence Gallery Creation & Photographic Documentation
+* **Action:** Created `PERSON_3_SIMULATION_EVIDENCE.md` compiling all 8 photographic assets (Wireshark packet dissections of `TOP 4 0`, full colored Follow TCP Stream dialogues, terminal socket execution, server daemon logs, and failure state machines) with detailed technical breakdowns and rubric mappings.
+* **Outcome:** Completely indexed in `README.md` and synchronized with git remote. Provides airtight visual defense evidence for academic evaluation.
 
 ---
 
