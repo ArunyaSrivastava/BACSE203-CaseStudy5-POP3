@@ -14,6 +14,7 @@ This repository contains the complete research, architectural design, network si
 | File / Artifact | Description |
 | :--- | :--- |
 | **[`TEAM_AGENT_HANDOFF.md`](./TEAM_AGENT_HANDOFF.md)** | **Master Team Handoff & AI Agent Prompts for Persons 1 to 5.** Contains copy-paste prompts for teammates to execute their parts using AI assistants. |
+| **[`AGENT_PROGRESS_LOG.md`](./AGENT_PROGRESS_LOG.md)** | **Project Continuity & Turn Changelog.** Turn-by-turn operational log documenting actions, context, and instructions for incoming AI agents. |
 | **[`Case Study 5 - POP3 Mailbox Access in a Low-Bandwidth Branch.docx`](./Case%20Study%205%20-%20POP3%20Mailbox%20Access%20in%20a%20Low-Bandwidth%20Branch.docx)** | **The Complete Master Report** formatted in the official university template (260+ paragraphs, 6 tables, diagrams, complete answers to a, b, c). |
 | **[`Case Study 5 - Person 1 - Protocol Theory & Limitations.docx`](./Case%20Study%205%20-%20Person%201%20-%20Protocol%20Theory%20&%20Limitations.docx)** | **Person 1 Standalone Deliverable:** Section 1 Overview + Section 6.1 (Question a) with embedded high-resolution diagrams. |
 | **[`Case Study 5 - Person 3 - Simulation & Packet Analysis.docx`](./Case%20Study%205%20-%20Person%203%20-%20Simulation%20&%20Packet%20Analysis.docx)** | **Person 3 Standalone Deliverable:** Section 5 with Table 4, live terminal logs, and Wireshark packet capture frame analysis. |

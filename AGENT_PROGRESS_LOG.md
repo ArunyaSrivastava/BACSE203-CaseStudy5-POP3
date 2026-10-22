@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 7)
+> **Last Synchronized:** 2026-10-22 (Turn 8)
 
 ---
 
@@ -113,6 +113,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 7: Project Continuity & Progress Logging Protocol
 * **Action:** Established `AGENT_PROGRESS_LOG.md` and committed ongoing work to GitHub.
 * **Outcome:** Full context, turn history, and agent instructions persisted for future turns or external agents.
+
+### Turn 8: Repository Indexing & Cross-Linking
+* **Action:** Committed `AGENT_PROGRESS_LOG.md` to GitHub remote and indexed it directly in `README.md` repository contents table.
+* **Outcome:** Clean working tree with `origin/main` completely up to date. Any incoming agent or developer cloning the repository has instant visibility into the project's state.
 
 ---
 
