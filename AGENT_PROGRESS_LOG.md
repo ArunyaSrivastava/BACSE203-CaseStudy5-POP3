@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 9)
+> **Last Synchronized:** 2026-10-22 (Turn 10)
 
 ---
 
@@ -121,6 +121,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 9: Person 3 Software & Execution Workflow Guidance
 * **Action:** Detailed the exact software requirements (Wireshark, Python 3, Terminal) and provided step-by-step instructions for Person 3 live reproduction or direct PCAP inspection.
 * **Outcome:** Verified existing artifacts (`pop3_wireshark_capture.pcap`, `run_wireshark_pop3_sim.py`, and `Case Study 5 - Person 3 - Simulation & Packet Analysis.docx`) require no further coding.
+
+### Turn 10: Wireshark UI Guidance & Display Filter Instructions
+* **Action:** Guided user on Wireshark macOS UI elements based on live screenshot, pinpointing the top display filter input bar (`Apply a display filter ... <⌘/>`) and interface selection.
+* **Outcome:** Clarified exact visual location and syntax (`tcp.port == 1110`) for live loopback capture.
 
 ---
 
