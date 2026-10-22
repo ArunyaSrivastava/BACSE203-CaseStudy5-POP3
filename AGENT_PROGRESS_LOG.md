@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 10)
+> **Last Synchronized:** 2026-10-22 (Turn 11)
 
 ---
 
@@ -125,6 +125,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 10: Wireshark UI Guidance & Display Filter Instructions
 * **Action:** Guided user on Wireshark macOS UI elements based on live screenshot, pinpointing the top display filter input bar (`Apply a display filter ... <⌘/>`) and interface selection.
 * **Outcome:** Clarified exact visual location and syntax (`tcp.port == 1110`) for live loopback capture.
+
+### Turn 11: Wireshark Capture Initiation Troubleshooting
+* **Action:** Diagnosed why packets didn't show in user's screenshot: Wireshark was still on the Welcome/Start screen. The capture was not started before executing the Python script.
+* **Outcome:** Provided explicit 2-step solution (double-click `Loopback: lo0` to start capturing, then re-run script; or directly open pre-recorded `pop3_wireshark_capture.pcap`).
 
 ---
 
