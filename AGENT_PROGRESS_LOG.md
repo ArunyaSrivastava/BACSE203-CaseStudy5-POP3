@@ -5,7 +5,7 @@
 > **Primary Student:** Arunya Srivastava (Reg No: 25BCE0344)  
 > **School:** School of Computer Science and Engineering (SCOPE), VIT  
 > **Academic Session:** Fall Semester 2026–27  
-> **Last Synchronized:** 2026-10-22 (Turn 11)
+> **Last Synchronized:** 2026-10-22 (Turn 12)
 
 ---
 
@@ -129,6 +129,10 @@ Any work produced in this repository **must align with these exact engineering p
 ### Turn 11: Wireshark Capture Initiation Troubleshooting
 * **Action:** Diagnosed why packets didn't show in user's screenshot: Wireshark was still on the Welcome/Start screen. The capture was not started before executing the Python script.
 * **Outcome:** Provided explicit 2-step solution (double-click `Loopback: lo0` to start capturing, then re-run script; or directly open pre-recorded `pop3_wireshark_capture.pcap`).
+
+### Turn 12: Successful Live Loopback Packet Capture & Follow TCP Stream Instructions
+* **Action:** Verified user successfully captured live simulation traffic on `lo0` (Packets 191–222 showing TCP 3-way handshake on port 1110, cleartext credentials `USER`/`PASS`, data streaming, and connection drop).
+* **Outcome:** Guided user to stop capture (red square button), inspect payload via "Follow TCP Stream", and save local trace. All Person 3 tasks fully validated.
 
 ---
 
